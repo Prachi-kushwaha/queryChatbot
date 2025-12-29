@@ -3,7 +3,11 @@ uvicorn
 langchain
 langchain-openai
 langchain-community
+langchain_core
 faiss-cpu
 tiktoken
 python-dotenv
 beautifulsoup4
+pandas
+numpy
+langchain-text-splitters
